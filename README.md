@@ -15,7 +15,7 @@
 
 ### Important
 
-* Kodunuzun və cədvəlinizin ekran görüntüsünü çəkin, onu bu qovluğa əlavə edin.
+* Kodunuzun və cədvəlinizin ekran görüntüsünü çəkin, onu task1 qovluğuna əlavə edin.
 
 
 # Tapşırıq 2: Film məlumatlarını alın və databazada saxlayın
